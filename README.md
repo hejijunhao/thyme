@@ -1,6 +1,6 @@
 # thyme
 
-A new Flutter project.
+A new multi-timer for chefs and home cooks.
 
 ## Getting Started
 
